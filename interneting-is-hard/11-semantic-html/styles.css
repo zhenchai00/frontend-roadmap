@@ -1,0 +1,14 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.page {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+section, article, aside, footer, header, nav {
+  display: block;
+}
